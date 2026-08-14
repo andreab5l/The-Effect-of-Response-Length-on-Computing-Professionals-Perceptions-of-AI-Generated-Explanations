@@ -1,9 +1,10 @@
 <p align="center">
-<img src="resources/header.png" width="435">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&size=32&duration=6000&pause=10000&color=37881F&width=435&lines=Andrea+Barreto+Luna" alt="Typing SVG" /></a>
 </p>
 <p align="center">
  2026
 </p>
+
 
 
 <table>
